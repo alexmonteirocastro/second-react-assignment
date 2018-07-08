@@ -1,0 +1,9 @@
+.Validation{
+    width: 60%;
+    background-color: #abc3ea;
+    margin: 16px auto;
+    border: 1px solid #56d628;
+    box-shadow: 2px 3px 2px 3px #85f25e;
+    padding: 10px;
+    text-align: center;
+}

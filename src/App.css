@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin: 14px auto;
+  font-size: 32px;
+}
+
+input{
+  font-size: inherit;
+}
